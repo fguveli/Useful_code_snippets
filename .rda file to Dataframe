@@ -17,7 +17,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "result = pyreadr.read_r(\"D:/Users/26048898/OneDrive - ARÇELİK A.Ş/Desktop/secim151101g.rda\")"
+    "result = pyreadr.read_r(\".rda file_path")"
    ]
   },
   {
